@@ -25,7 +25,7 @@ Back to Jenkins - _Manage Jenkins_ ... _Manage Plugins_
 Create new freestyle job `pi`:
 
 - Git SCM
-- repo url `https://github.com/anshulc55/Jenkins_Upgradev3` (no credentials - public)
+- repo url `https://github.com/TRI-SRT/ASA_jenkins_repo.git` (no credentials - public)
 - branch spec `\*main`
 - advanced clone - shallow, depth = 1
 - clean before checkout
